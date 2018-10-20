@@ -64,4 +64,5 @@ The following packages are needed to run the python project.
 
 ## Resources
 
+- [Making AI Art with Style Transfer using Keras](https://medium.com/mlreview/making-ai-art-with-style-transfer-using-keras-8bb5fa44b216)
 - [Logo - Earth Icon](http://www.endlessicons.com/free-icons/earth-icon/)
