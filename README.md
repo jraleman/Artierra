@@ -59,3 +59,7 @@ The following packages are needed to run the python project.
 - keras
 - pillow
 - tensorflow
+
+## Resources
+
+- [Logo - Earth Icon](http://www.endlessicons.com/free-icons/earth-icon/)
