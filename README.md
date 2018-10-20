@@ -34,3 +34,15 @@ On Windows:
 ```
 python -m pip install -U pip
 ```
+
+### Install Dependencies
+
+Make sure you are at the root of the project.
+Run the following to install all the dependencies.
+
+```
+pip install --ignore-installed --user -r requirements.txt
+
+```
+
+If any error comes up, feel free to open an issue :)
