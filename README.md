@@ -1,5 +1,7 @@
 # Artierra
 
+![logo](resources/logo.png)
+
 ## About
 
 ...
