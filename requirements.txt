@@ -1,0 +1,8 @@
+nose
+tornado
+numpy>=1.9.1
+scipy>=0.14
+pandas
+keras==2.2.4
+pillow
+tensorflow

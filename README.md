@@ -46,3 +46,16 @@ pip install --ignore-installed --user -r requirements.txt
 ```
 
 If any error comes up, feel free to open an issue :)
+
+#### Dependencies List
+
+The following packages are needed to run the python project.
+
+- nose
+- tornado
+- numpy
+- scipy
+- pandas
+- keras
+- pillow
+- tensorflow
